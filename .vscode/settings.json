@@ -8,6 +8,7 @@
       "source.organizeImports.ruff": "explicit"
     }
   },
+  "notebook.defaultFormatter": "charliermarsh.ruff",
   "notebook.formatOnSave.enabled": true,
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll.ruff": "explicit",
